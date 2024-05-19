@@ -2,7 +2,7 @@
 
 **Introduction**
 
-This lecture from "The Complete JavaScript Series" by Shraddha Khapra covers building a Tic Tac Toe game using JavaScript. The video starts with an overview of the game and its rules, emphasizing that it's a great way to practice core JavaScript concepts like arrays, booleans, DOM manipulation, event listeners, and more.
+The Project starts with an overview of the game and its rules, emphasizing that it's a great way to practice core JavaScript concepts like arrays, booleans, DOM manipulation, event listeners, and more.
 
 **Building the Tic Tac Toe Game**
 
@@ -24,7 +24,7 @@ The instructor breaks down the game development process into smaller steps:
 
 **Additional Details and Key Takeaways**
 
--   The video emphasizes the importance of understanding and applying fundamental programming concepts to solve problems.
+-   The project emphasizes the importance of understanding and applying fundamental programming concepts to solve problems.
 
 -   Tic Tac Toe is a simple game but provides a valuable learning experience for practicing core JavaScript concepts.
 
