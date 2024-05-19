@@ -6,7 +6,6 @@ The Project starts with an overview of the game and its rules, emphasizing that 
 
 **Building the Tic Tac Toe Game**
 
-The instructor breaks down the game development process into smaller steps:
 
 1.  **HTML Structure:** Create an HTML document with a 3x3 grid to represent the Tic Tac Toe board. Each cell should have a unique identifier.
 
@@ -32,4 +31,4 @@ The instructor breaks down the game development process into smaller steps:
 
 **Conclusion**
 
-This lecture provides a comprehensive guide to building a Tic Tac Toe game using JavaScript, highlighting the practical application of essential programming concepts. By following the steps and understanding the underlying logic, viewers can gain valuable experience in web development and programming fundamentals.
+This project provides a comprehensive guide to building a Tic Tac Toe game using JavaScript, highlighting the practical application of essential programming concepts. 
